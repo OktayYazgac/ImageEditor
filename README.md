@@ -16,9 +16,9 @@ This application is an [MDI](https://en.wikipedia.org/wiki/Multiple_document_int
     + sharpness
     + user defined.
 
-It uses ScanLine API which a very efficient way to manipulate bitmaps.
+It uses ScanLine API which was a very efficient way to manipulate bitmaps.
 
-A short video showing the functionality -- https://youtu.be/XqkS_kg2UO8
+A **short video** showing the functionality -- https://youtu.be/XqkS_kg2UO8
 
 ## How to run it today?
 
